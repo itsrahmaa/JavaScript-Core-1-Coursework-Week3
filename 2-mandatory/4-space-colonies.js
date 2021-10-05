@@ -15,7 +15,10 @@
   
 */
 
-function getSettlers() {}
+function getSettlers() {
+
+  
+}
 
 /* ======= TESTS - DO NOT MODIFY ===== */
 
